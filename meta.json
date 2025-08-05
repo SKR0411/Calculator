@@ -1,1 +1,35 @@
-
+{
+  "name": "Calculator",
+  "package": "com.skr.calculator",
+  "version": "1.0",
+  "description": "It us an simple Calculator to calculate mathematical operation like addition, subtraction, multiplication, divition etc. ",
+  "developer": {
+    "name": "SKR",
+    "email": "skr@example.com",
+    "website": "https://github.com/SKR0411"
+  },
+  "features": [
+    "Easy to calculate",
+    "Simple and engaging UI",
+    "Tracks Calculation history",
+    "Lightweight and works offline"
+  ],
+  "permissions": [],
+  "icons": [
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/ic_icon_round.png",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/ic_icon.jpg"
+  ],
+  "screenshots": [
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/home_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/intermediate_screen.jpg",
+    "https://raw.githubusercontent.com/SKR0411/AppHub/main/tic_tac_toe/assets/result_screen.jpg"
+  ],
+  "apk": {
+    "url": "https://github.com/SKR0411/Calculator/releases/download/v1.0/calculator.apk",
+    "size": "3.2 MB",
+    "minSdk": 16,
+    "targetSdk": 30
+  },
+  "tags": ["tool", "calculator", "xo", "offline", "history", "featured"],
+  "releaseDate": "2025-08-05"
+}
